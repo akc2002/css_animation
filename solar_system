@@ -71,7 +71,11 @@
             height: 1.2em;
             background: silver;
         }
-       
+        @keyframes arjun{
+            to{
+                transform: rotate(360deg);
+            }
+        }
     </style>   
 </head>
 <body>
