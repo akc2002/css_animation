@@ -80,7 +80,7 @@
 </head>
 <body>
     <div>
-        <h1 style="color: white;">solar planets</h1>
+        <h1 style="color: white;">Solar System</h1>
     </div><br>
     <div class="container">
         <div class="sun"></div>
